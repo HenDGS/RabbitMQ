@@ -1,4 +1,3 @@
-# create cliente_4 and bind/subscribe to topic "pc" and recieve messages from "cpu" and "ram"
 import pika
 import sys
 import os
